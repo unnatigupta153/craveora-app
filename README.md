@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# MERN Auth App
+
+## Setup
+
+1. Copy `server/.env.example` to `server/.env` and add MongoDB + JWT values.
+2. Copy `client/.env.example` to `client/.env`.
+3. Run `npm run install:all` from this folder.
+4. Start the API with `npm run dev:server`, then the React app with `npm run dev:client`.
+
+The API runs on port 4040 and the client on port 3000 by default.
+>>>>>>> 775ce8c (Rebuild MERN auth app with client and server)
