@@ -72,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 4. Start the API with `npm run dev:server`, then the React app with `npm run dev:client`.
 
 The API runs on port 4040 and the client on port 3000 by default.
->>>>>>> 775ce8c (Rebuild MERN auth app with client and server)
+>>>>>>> 775ce8c (Rebuild MERN auth app with client and server
